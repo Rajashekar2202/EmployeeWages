@@ -35,7 +35,7 @@ namespace EmployeeWage
                 }
                 empWage = empHrs * EMP_RATE_PER_HOUR;
                 totalEmpWage += empWage;
-                Console .WriteLine("Emp Wage : " + empWage);
+                Console .WriteLine("Emp  Wage : " + empWage);
             }
             Console.WriteLine("Employee Monthly Wage : " + totalEmpWage);
 
